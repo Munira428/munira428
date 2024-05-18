@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Munira Momin</h1>
 <h3 align="center">A passionate web developer trying to learn more and more stuff about coding</h3>
-<img align="right" alt="coding" width="550" src="https://github.com/Munira428/munira428/assets/125720361/37ddd79e-9c7a-4d39-8ebf-32c73714bbea">
+<img align="right" alt="coding" width="450" src="https://github.com/Munira428/munira428/assets/125720361/37ddd79e-9c7a-4d39-8ebf-32c73714bbea">
 
 - 🔭 I’m currently working on **my coding skills and trying to learn**
 
