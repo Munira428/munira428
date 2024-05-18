@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **my coding skills and trying to learn**
 
-- 🌱 I’m currently learning **Advanced Java,Python**
+- 🌱 I’m currently learning **Web Development**
 
 - 📫 To reach me **mominmunira2003@gmail.com*
 
