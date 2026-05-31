@@ -49,8 +49,8 @@
 |---|---|---|
 | [TradeInsights](https://github.com/Munira428/TradeInsights) | React.js, Node.js, PostgreSQL, ApexCharts | Performance Management System with RBAC & real-time KPI dashboards |
 | [MindFul Heaven](https://github.com/Munira428/MindfulHeaven) | React.js, Node.js, PostgreSQL, JWT | Mental health self-assessment app with recommendation engine |
-| [Sales Dashboard](https://github.com/Munira428/SalesDashboard) | Power BI, DAX, Power Query | Executive-level sales analytics with 10+ DAX measures |
-| [Task Buddy](https://github.com/Munira428/TaskBuddy) | React.js, HTML5, CSS3 | Project management dashboard with auth & task tracking |
+| [Sales Dashboard]([https://github.com/Munira428/SalesDashboard](https://app.powerbi.com/groups/me/reports/92b68b13-bc47-4af3-8e73-02d2e4b453e1/f469a1df644850405a87?experience=power-bi)) | Power BI, DAX, Power Query | Executive-level sales analytics with 10+ DAX measures |
+| [Task Buddy](https://github.com/Munira428/Dashboard) | React.js, HTML5, CSS3 | Project management dashboard with auth & task tracking |
 
 ---
 
