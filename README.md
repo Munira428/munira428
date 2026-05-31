@@ -5,9 +5,6 @@
   <a href="https://linkedin.com/in/munira428">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:mominmunira2003@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
 </p>
 
 ---
@@ -47,20 +44,10 @@
 
 | Project | Tech Stack | Description |
 |---|---|---|
-| [TradeInsights](https://github.com/Munira428/TradeInsights) | React.js, Node.js, PostgreSQL, ApexCharts | Performance Management System with RBAC & real-time KPI dashboards |
+| [TradeInsights] | React.js, Node.js, PostgreSQL, ApexCharts | Performance Management System with RBAC & real-time KPI dashboards |
 | [MindFul Heaven](https://github.com/Munira428/MindfulHeaven) | React.js, Node.js, PostgreSQL, JWT | Mental health self-assessment app with recommendation engine |
 | [Sales Dashboard]([https://github.com/Munira428/SalesDashboard](https://app.powerbi.com/groups/me/reports/92b68b13-bc47-4af3-8e73-02d2e4b453e1/f469a1df644850405a87?experience=power-bi)) | Power BI, DAX, Power Query | Executive-level sales analytics with 10+ DAX measures |
 | [Task Buddy](https://github.com/Munira428/Dashboard) | React.js, HTML5, CSS3 | Project management dashboard with auth & task tracking |
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Munira428&show_icons=true&theme=tokyonight&hide_border=true" width="47%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munira428&layout=compact&theme=tokyonight&hide_border=true" width="47%"/>
-</p>
-
----
-
-<p align="center">📩 mominmunira2003@gmail.com | Let's build something great!</p>
+<p align="center">Let's build something great!</p>
